@@ -1,0 +1,16 @@
+public class testarray{ 
+     int x;
+     int []y=new int[10];
+     public static void main(String[] args) {
+    testarray ob=new testarray () ;
+    ob.x=1;
+   ob.y[0]=10;
+		ob.m(ob.x,ob.y);
+		System.out.println("x= "+ob.x);
+		System.out.println("y[0]= "+ob.y[0]);
+	}
+     void m(int num, int []nums) 
+	{  num=1001;
+	    nums[0]=6;
+}
+}
