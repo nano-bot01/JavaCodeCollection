@@ -1,12 +1,7 @@
-package programs;
-
-
 import java.util.*;
-public class Age_gender_char {
-	private static Scanner s;
-
+public class Logical {
 	public static void main(String[] args) {
-	s = new Scanner(System.in);
+	Scanner s= new Scanner(System.in);
 	System.out.print("Enter the Age :");
 	int age=s.nextInt();
 	System.out.print("Enter the Gender :");

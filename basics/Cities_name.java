@@ -1,7 +1,5 @@
-package programs;
-
 import java.util.*;
-public class Cities_name {
+public class Main {
 	public static void main(String[] args) {
 System.out.println(" Ankit Nainwal 1000014497");
 Scanner input = new Scanner(System.in);System.out.print("Enter the first city: "); 

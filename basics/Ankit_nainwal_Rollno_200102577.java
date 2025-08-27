@@ -1,7 +1,5 @@
-package programs;
-
 import java.util.*;
-public class Ankit_nainwal_Rollno_200102577 {
+public class Main {
 	public static void main(String[] args) {
 	System.out.println(" Ankit Nainwal \n Sap- 1000014497");
 	System.out.print(" Enter an Alphabet to check:  ");

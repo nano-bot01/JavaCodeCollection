@@ -1,7 +1,5 @@
-package programs;
-
 import java.util.*;
-public class area_perimeter_rect_circle {
+public class Main {
 	public static void main(String[] args) {
 // area of circle
 Scanner s =new Scanner(System.in);
